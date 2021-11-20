@@ -1,0 +1,88 @@
+.client {
+    background-image: 
+    background-repeat: no-repeat;
+    display: block;
+}
+<i class="client client-1"></i>
+<i class="client client-10"></i>
+<i class="client client-11"></i>
+<i class="client client-12"></i>
+<i class="client client-2"></i>
+<i class="client client-3"></i>
+<i class="client client-4"></i>
+<i class="client client-5"></i>
+<i class="client client-6"></i>
+<i class="client client-7"></i>
+<i class="client client-8"></i>
+<i class="client client-9"></i>
+.client-1 {
+    width: 103px;
+    height: 34px;
+    background-position: -5px -5px;
+}
+
+.client-10 {
+    width: 104px;
+    height: 62px;
+    background-position: -118px -5px;
+}
+
+.client-11 {
+    width: 76px;
+    height: 72px;
+    background-position: -5px -77px;
+}
+
+.client-12 {
+    width: 76px;
+    height: 72px;
+    background-position: -91px -77px;
+}
+
+.client-2 {
+    width: 103px;
+    height: 34px;
+    background-position: -177px -77px;
+}
+
+.client-3 {
+    width: 83px;
+    height: 59px;
+    background-position: -177px -121px;
+}
+
+.client-4 {
+    width: 83px;
+    height: 59px;
+    background-position: -5px -190px;
+}
+
+.client-5 {
+    width: 102px;
+    height: 75px;
+    background-position: -98px -190px;
+}
+
+.client-6 {
+    width: 102px;
+    height: 75px;
+    background-position: -290px -5px;
+}
+
+.client-7 {
+    width: 103px;
+    height: 42px;
+    background-position: -290px -90px;
+}
+
+.client-8 {
+    width: 103px;
+    height: 42px;
+    background-position: -270px -142px;
+}
+
+.client-9 {
+    width: 104px;
+    height: 62px;
+    background-position: -210px -194px;
+}

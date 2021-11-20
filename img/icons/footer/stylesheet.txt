@@ -1,0 +1,23 @@
+.contact {
+    background-image: url();
+    background-repeat: no-repeat;
+    display: block;
+}
+
+.contact-map {
+    width: 24px;
+    height: 31px;
+    background-position: -5px -5px;
+}
+
+.contact-phone {
+    width: 24px;
+    height: 25px;
+    background-position: -39px -5px;
+}
+
+.contact-send {
+    width: 24px;
+    height: 27px;
+    background-position: -73px -5px;
+}
